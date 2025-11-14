@@ -29,11 +29,6 @@ A comprehensive Django-based web application with deep learning integration that
 - **Database**: SQLite/PostgreSQL
 - **Computer Vision**: OpenCV, Dlib, or Face Recognition libraries
 
-## 🚀 System Workflow
-1. **User Registration** → Admin approval → Face enrollment
-2. **Daily Login** → Face recognition → Attendance marked automatically
-3. **Leave Application** → User submits → Admin reviews → Status updated
-4. **Admin Monitoring** → Real-time analytics → Report generation
 
 ## 💡 Benefits
 - ✅ **Enhanced Security** - Biometric authentication
